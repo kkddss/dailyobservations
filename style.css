@@ -23,6 +23,18 @@ nav button:hover {
 }
 
 .home-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 60vh;        /* pushes it into the middle vertically */
+  text-align: center;  /* centers text inside */
+  line-height: 1.2;
+}
+
+
+.home-title {
   text-align: center;
   margin-top: 60px;
   line-height: 1.2;
