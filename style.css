@@ -64,6 +64,9 @@ nav button:hover {
   padding-left: 20px;    /* keeps numbers aligned nicely */
 }
 
+.home-text ol li {
+  margin-bottom: 20px;
+}
 
 h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
