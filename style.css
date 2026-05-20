@@ -22,6 +22,30 @@ nav button:hover {
   background: #777;
 }
 
+.home-title {
+  text-align: center;
+  margin-top: 60px;
+  line-height: 1.2;
+}
+
+/* Top 3 lines — choose any font you like */
+.home-title .line1,
+.home-title .line2,
+.home-title .line3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+}
+
+/* Bottom line — different font */
+.home-title .line4 {
+  font-family: "Playfair Display", serif;
+  font-size: 32px;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+
 h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-weight: 700;
