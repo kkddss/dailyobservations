@@ -50,6 +50,20 @@ nav button:hover {
   font-weight: 600;
 }
 
+.home-text {
+  font-family: "Playfair Display", serif;
+  font-size: 20px;
+  max-width: 800px;
+  margin: 0 auto;        /* centers the text block */
+  margin-top: -20px;     /* pulls it closer to the title */
+  line-height: 1.6;
+  padding: 20px;
+}
+
+.home-text ol {
+  padding-left: 20px;    /* keeps numbers aligned nicely */
+}
+
 
 h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
