@@ -33,13 +33,6 @@ nav button:hover {
   line-height: 1.2;
 }
 
-
-.home-title {
-  text-align: center;
-  margin-top: 60px;
-  line-height: 1.2;
-}
-
 /* Top 3 lines — choose any font you like */
 .home-title .line1,
 .home-title .line2,
